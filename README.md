@@ -29,11 +29,13 @@ The script will print the current standings for the game.
 
 Code Explanation
 Dictionaries
+
 letter_to_points: Maps each letter to its corresponding point value.
 player_to_words: Maps each player to a list of words they have played.
 player_to_points: Maps each player to their total points.
 
 Functions
+
 score_word(word): Takes a word as input and returns the total points for that word.
 play_word(player, word): Takes a player and a word as input, adds the word to the player’s list of words, and updates their score.
 Example
