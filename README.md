@@ -28,6 +28,7 @@ This project processes data from a group of friends playing Scrabble. It calcula
 The script will print the current standings for the game.
 
 Code Explanation
+
 Dictionaries
 
 letter_to_points: Maps each letter to its corresponding point value.
